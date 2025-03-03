@@ -11,4 +11,4 @@ If you want to run it locally to take a look, first resolve dependencies by runn
 flutter pub get
 ```
 
-The docs folder contains a built version, and it is also the version showing on my medium story, so that I can host everything together but separately.
+The docs folder contains a built version, and it is also the version showing on my medium story, so that I can host everything together rather than separately.
